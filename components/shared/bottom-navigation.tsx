@@ -12,12 +12,12 @@ function BottomNavigation() {
                     <button className="flex flex-col items-center justify-center">
                         <Home className="size-5 text-gray-900" />
                     </button></a>
-                <a href="/weighing">
+                <a href="/weight-scale">
                     <button className="flex flex-col items-center justify-center">
                         <Weight className="size-5 text-gray-900" />
                     </button>
                 </a>
-                <a href="/workflows">
+                <a href="/workflow">
                     <button className="flex flex-col items-center justify-center">
                         <Network className="size-5 text-gray-900" />
                     </button>
